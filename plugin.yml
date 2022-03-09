@@ -1,0 +1,10 @@
+main: seokjin91.flyplugin.FlyPlugin
+version: 1.0.0
+name: FlyPlugin
+commands:
+  fly:
+    description: Fly command
+    permission: fly.fly
+  unfly:
+    description: unfly command
+    permission: fly.unfly
